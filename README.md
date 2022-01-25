@@ -51,8 +51,8 @@
   [![Maheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheepK9)]
   
 </details>
-
- ![Maheep's GitHub stats](https://komarev.com/ghpvc/?username=MaheepK9)
+<br / >
+ ![View Counter](https://komarev.com/ghpvc/?username=MaheepK9)
   
 [website]: https://maheepk9.github.io/Portfolio/
 [instagram]: https://instagram.com/maheep_kumar97
