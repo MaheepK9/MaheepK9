@@ -27,9 +27,10 @@
 
 <br />
 <br />
+
 ### Designing Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-![image](https://user-images.githubusercontent.com/61288313/150922720-6f3ac05f-7bcc-42dd-8e94-07d62905d14d.png)
+<br />
 
 
 ---
