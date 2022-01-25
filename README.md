@@ -52,7 +52,7 @@
   
 </details>
 <br / >
- ![View Counter](https://komarev.com/ghpvc/?username=MaheepK9)
+ ![Maheep's GitHub stats](https://komarev.com/ghpvc/?username=MaheepK9)
   
 [website]: https://maheepk9.github.io/Portfolio/
 [instagram]: https://instagram.com/maheep_kumar97
