@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{MaheepK9}/count.svg)
+
 ### Hi, I'm Maheep Kumar  -[website] 👋
 
 ## I'm a Student, Creator and Learner!
@@ -51,9 +53,8 @@
   [![Maheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheepK9)]
   
 </details>
-![Visitor Count](https://profile-counter.glitch.me/{MaheepK9}/count.svg)
-  
 
+  
 [website]: https://maheepk9.github.io/Portfolio/
 [instagram]: https://instagram.com/maheep_kumar97
 [linkedin]: https://linkedin.com/in/maheep-kumar
