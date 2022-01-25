@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{MaheepK9}/count.svg)
+![](https://komarev.com/ghpvc/?username=MaheepK9&color=blue)
 
 ### Hi, I'm Maheep Kumar  -[website] 👋
 
