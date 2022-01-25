@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Maheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheepK9)]
+  ![Maheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheepK9)
   
 </details>
 
