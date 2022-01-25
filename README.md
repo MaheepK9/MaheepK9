@@ -30,8 +30,8 @@
 
 ### Designing Tools:
 <img align="left" alt="Canva" width="80px" src="https://camo.githubusercontent.com/dbbdeebb2a1da0d8867448473dd103127adac6dc4b996830f8e7555f538de171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" />
-<img width="55" alt="Figma" src="https://user-images.githubusercontent.com/61288313/150924556-3fdd17ec-12ae-4230-8560-98df0cd8a247.png">
-<img width="55" alt="Illustrator" src="https://user-images.githubusercontent.com/61288313/150924981-a8a3b24a-3409-49d4-9c28-f63fd4f0c293.png">
+<img align="left" width="55" alt="Figma" src="https://user-images.githubusercontent.com/61288313/150924556-3fdd17ec-12ae-4230-8560-98df0cd8a247.png">
+<img align="left" width="55" alt="Illustrator" src="https://user-images.githubusercontent.com/61288313/150924981-a8a3b24a-3409-49d4-9c28-f63fd4f0c293.png">
 
 
 
